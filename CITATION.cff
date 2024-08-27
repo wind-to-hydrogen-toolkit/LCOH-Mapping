@@ -1,0 +1,50 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: LCOH-Mapping
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Quang Vu
+    family-names: Dinh
+    affiliation: University College Cork
+repository-code: 'https://github.com/wind-to-hydrogen-toolkit/LCOH-Mapping'
+keywords:
+  - LCOH
+  - Offshore hydrogen production
+  - Green hydrogen
+  - Hydrogen production in Ireland
+  - Geographic information system
+license: Apache-2.0
+preferred-citation:
+  type: article
+  authors:
+    - given-names: Quang Vu
+      family-names: Dinh
+      affiliation: University College Cork
+    - given-names: Van Nguyen
+      family-names: Dinh
+      affiliation: 'OWC, ABL Group'
+    - given-names: Hadi
+      family-names: Mosadeghi
+      affiliation: University College Cork
+    - given-names: Pedro H.
+      family-names: Todesco Pereira
+      affiliation: 'OWC, ABL Group'
+    - given-names: Paul G.
+      family-names: Leahy
+      affiliation: University College Cork
+  title: >-
+    A geospatial method for estimating the levelised cost of
+    hydrogen production from offshore wind
+  doi: '10.1016/j.ijhydene.2023.01.016'
+  journal: International Journal of Hydrogen Energy
+  year: 2023
+  month: 1
+  volume: 48
+  issue: 40
+  start: 15000 # First page number
+  end: 15013 # Last page number
