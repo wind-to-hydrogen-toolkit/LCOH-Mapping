@@ -180,7 +180,7 @@ water_depth = xr.open_dataset('gebco_cut.nc')
 lat_wd = water_depth.lat.values
 lon_wd = water_depth.lon.values
 
-sea_port = pd.read_csv('List port check.csv')
+sea_port = pd.read_csv('List port checked.csv')
 num_port = len(sea_port)
 lat_port = sea_port.lat.values;
 lon_port = sea_port.lon.values
